@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:03.557171
+#+DATE: 2015-08-30 19:59:20.006877
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_094-0533a> ¶¶¶¶¶
 #+PROPERTY: JUAN 94
 ¶
 ¶
-
- 《大寶積經》卷第九十四¶
+《大寶積經》卷第九十四¶
 ¶
-後秦三藏法師羅什譯¶
+後秦三藏法師師羅什譯¶
 善臂菩薩會第二十六之二¶
 
 「善臂！云何菩薩摩訶薩具足行禪波羅蜜？菩¶
@@ -124,7 +123,7 @@
 者，是名有為界。云何無為界？若法無生住¶
 滅，是名無為界。是名知有為、無為界。復次¶
 知三界，善界、不善界、無記界。云何善界？若¶
-不貪共不貪、若不恚共不恚、若不癡共不癡，¶
+不貪共不貧、若不恚共不恚、若不癡共不癡，¶
 是名善界。云何不善界？若貪共貪、若瞋共¶
 瞋、若癡共癡，是名不善界。云何無記界？除¶
 善不善，若有餘法，是名無記界。復次知三

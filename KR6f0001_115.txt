@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:04.374362
+#+DATE: 2015-08-30 19:59:20.711865
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_115-0648a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 115
 ¶
 ¶
-
- 《大寶積經》卷第一百一十五¶
+《大寶積經》卷第一百一十五¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 
-45無盡慧菩薩會
-:PROPERTIES:
-:head: 無盡慧菩薩會第四十五
-:END:
-¶
+無盡慧菩薩會第四十五¶
 
 如是我聞：
 
@@ -254,11 +249,7 @@
 世間天、人、阿修羅、乾闥婆等，皆大歡喜，信受¶
 奉行。¶
 
-46文殊說般若會
-:PROPERTIES:
-:head: 《大寶積經》文殊說般若會第四十六之一
-:END:
-¶
+《大寶積經》文殊說般若會第四十六之一¶
 梁三藏曼陀羅仙譯¶
 
 如是我聞：

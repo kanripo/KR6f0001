@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.687121
+#+DATE: 2015-08-30 19:59:19.210591
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_071-0401a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 71
 ¶
 ¶
-
- 《大寶積經》卷第七十一¶
+《大寶積經》卷第七十一¶
 ¶
 北齊三藏那連提耶舍譯¶
 菩薩見實會淨居天子讚偈品第二十¶
@@ -1629,7 +1628,7 @@
 #+END_VERSE
 」¶
 
-爾時出坑㵎天子說偈讚曰：¶
+爾時出坑[澗-日+月]天子說偈讚曰：¶
 
 #+BEGIN_VERSE
 「　「世尊一切智，
@@ -2199,7 +2198,7 @@
 「　「人王心意業，
 　所有思量事，¶
 　悲念於眾生，
-　故禮愍世者。」
+　故禮愍世間。」
 #+END_VERSE
 」¶
 

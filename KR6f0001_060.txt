@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.249695
+#+DATE: 2015-08-30 19:59:18.824476
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_060-0346b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 60
 ¶
 ¶
-
- 《大寶積經》卷第六十¶
+《大寶積經》卷第六十¶
 ¶
 大唐于闐三藏實叉難陀譯¶
 文殊師利授記會第十五之三¶

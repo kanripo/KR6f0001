@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:03.405114
+#+DATE: 2015-08-30 19:59:19.856851
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_089-0507b> ¶¶¶
 #+PROPERTY: JUAN 89
 ¶
 ¶
-
- 《大寶積經》卷第八十九¶
+《大寶積經》卷第八十九¶
 ¶
 元魏優禪國王子月婆首那譯¶
 摩訶迦葉會第二十三之二¶
