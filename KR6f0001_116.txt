@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:04.414734
+#+DATE: 2015-08-30 20:00:12.008387
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0001_T_116-0652b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 116
 ¶
 ¶
-
- 《大寶積經》卷第一百一十六¶
+《大寶積經》卷第一百一十六¶
 ¶
 梁三藏曼陀羅仙譯¶
 文殊師利說般若會第四十六之二¶

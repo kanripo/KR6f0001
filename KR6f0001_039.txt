@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.555034
+#+DATE: 2015-08-30 20:00:09.138669
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0001_T_039-0223b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 39
 ¶
 ¶
-
- 《大寶積經》卷第三十九¶
+《大寶積經》卷第三十九¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 菩薩藏會第十二之五如來不思議性品¶
@@ -56,7 +55,7 @@
 無有能於如來無畏起違諍者。何以故？由如¶
 來無畏不可為諍故。如性平等處法界性，流¶
 布遍滿諸世界中，無能違害。舍利子！如如來¶
-無畏於一切甚深微細難可知法能正等¶
+無畏於一切甚深微細雜可知法能正等¶
 覺，如是如來安住大悲，種種言音、種種法門¶
 為彼有情開示妙法，若能依此修遠離行速¶
 盡苦際。若諸含識實非大師自稱大師、非正¶

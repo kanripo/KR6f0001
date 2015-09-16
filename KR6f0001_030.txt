@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.193008
+#+DATE: 2015-08-30 20:00:08.769865
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0001_T_030-0163a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《大寶積經》卷第三十¶
+《大寶積經》卷第三十¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 
-11出現光明會
-:PROPERTIES:
-:head: 出現光明會第一十一之一
-:END:
-¶
+出現光明會第一十一之一¶
 
 如是我聞：
 

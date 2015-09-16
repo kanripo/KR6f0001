@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:00.982774
+#+DATE: 2015-08-30 20:00:08.546057
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0001_T_023-0126a> 
 #+PROPERTY: JUAN 23
 ¶
-
- 《大寶積經》卷第二十三¶
+《大寶積經》卷第二十三¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 被甲莊嚴會第七之三¶
@@ -426,7 +425,7 @@
 　汝當隨義行，
 　能斷汝疑惑。¶
 　若乘此乘者，
-　乘已當發趣，¶
+　乘己當發趣，¶
 　速詣大菩提，
 　現證無上覺。¶
 　於此最上乘，
