@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:00.885847
+#+DATE: 2015-08-30 19:59:57.060728
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_020-0107a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《大寶積經》卷第二十¶
+《大寶積經》卷第二十¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
-
-4菩薩眾品不動如來會第六之二菩薩眾品第四¶
+不動如來會第六之二菩薩眾品第四¶
 
 爾時尊者舍利弗作如是念：「世尊今者已說¶
 聲聞功德，復願說諸菩薩具足功德。何以故？¶
@@ -229,11 +227,7 @@
 
 佛告舍利弗：「以法界等故得無有異。」¶
 
-5涅槃功德品
-:PROPERTIES:
-:head: 涅槃功德品第五
-:END:
-¶
+涅槃功德品第五¶
 
 爾時尊者舍利弗復作是念：「世尊已說不動¶
 如來、應、正等覺修菩薩道功德無邊，又說彼¶
@@ -327,11 +321,7 @@
 無精勤。知法比丘自當退靜，觀無樂欲不復¶
 弘宣，彼佛微言漸當隱沒。」¶
 
-6往生因緣品
-:PROPERTIES:
-:head: 往生因緣品第六
-:END:
-¶
+往生因緣品第六¶
 
 爾時尊者舍利弗白佛言：「世尊！菩薩摩訶薩¶
 以何因緣善根之力，於彼佛剎而得受生？」

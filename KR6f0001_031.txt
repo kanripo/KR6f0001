@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.231987
+#+DATE: 2015-08-30 19:59:57.438453
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_031-0168c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
 ¶
-
- 《大寶積經》卷第三十一¶
+《大寶積經》卷第三十一¶
 ¶
 唐天竺三藏菩提流志譯¶
 出現光明會第十一之二
@@ -592,7 +591,7 @@
 　如佛饒益諸世間，
 　願我亦成如是智。¶
 　導師已度貪癡行，
-　普能饒益諸世間，¶
+　普能饒益於世間，¶
 　如佛饒益諸世間，
 　願我亦成如是智。¶
 　導師已度等分行，

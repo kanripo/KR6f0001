@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.957996
+#+DATE: 2015-08-30 19:59:58.138234
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_051-0298b> 
 #+PROPERTY: JUAN 51
 ¶
-
- 《大寶積經》卷第五十一¶
+《大寶積經》卷第五十一¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 菩薩藏會第十二之十七般若波羅蜜多¶
@@ -482,7 +481,7 @@
 切眾生心行辯、無謇吃言辯、無梗澁言辯、無¶
 輕掉言辯、無麁獷言辯、愛潤音言辯、清淨言¶
 辯、橫逸言辯、無著言辯、教詔言辯、三摩呬多¶
-言辯、妙相應言辯、無關𨷲言辯、美妙音言辯、¶
+言辯、妙相應言辯、無關[門@龠]言辯、美妙音言辯、¶
 柔滑音言辯、無致譏訶言辯、眾聖所讚言辯。¶
 舍利子！菩薩摩訶薩以如是等所有言辯，遍¶
 告無邊諸佛剎土，所發言音超過一切梵音¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:00.770254
+#+DATE: 2015-08-30 19:59:56.949548
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_016-0085c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《大寶積經》卷第十六¶
+《大寶積經》卷第十六¶
 ¶
 西晉三藏竺法護譯¶
 淨居天子會第四之二¶
@@ -403,7 +402,7 @@
 薩是八地，受不退轉記。應親近供養甚深信¶
 解人，多決定疑悔法障，彼應供養法師得除¶
 疑悔，如是清淨。彼中住初地，疑道為得佛為¶
-不得佛是二地，教化眾生智疑是三地，出生
+不得佛是二地，敬化眾生智疑是三地，出生
 <pb:KR6f0001_T_016-0089c>¶
 定疑是四地，應作智疑是五地，道果疑是六¶
 地，出生疑是七地，遊戲疑是八地。¶

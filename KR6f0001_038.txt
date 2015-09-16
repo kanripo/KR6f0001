@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.513195
+#+DATE: 2015-08-30 19:59:57.720775
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_038-0215b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 38
 ¶
 ¶
-
- 《大寶積經》卷第三十八¶
+《大寶積經》卷第三十八¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 菩薩藏會第十二之四如來不思議性品¶
@@ -385,7 +384,7 @@
 　內外界悉空，
 　佛能如實知。¶
 　地界及水界、
-　火界與風界，¶
+　水界與風界，¶
 　四界同空相，
 　如是悉能知。¶
 　若欲界色界，
