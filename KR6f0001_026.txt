@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.068520
+#+DATE: 2015-08-30 19:59:45.627241
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0001_T_026-0143a> 
 #+PROPERTY: JUAN 26
 ¶
-
- 《大寶積經》卷第二十六¶
+《大寶積經》卷第二十六¶
 ¶
 梁三藏法師曼陀羅譯¶
 
-8法界體性無分別會
-:PROPERTIES:
-:head: 法界體性無分別會第八之一
-:END:
-¶
+法界體性無分別會第八之一¶
 
 如是我聞：
 
@@ -400,7 +395,7 @@
 性淨故知菩提體性淨，知菩提體性淨故知¶
 眾生體性淨，知眾生體性淨故知一切法體¶
 性淨，知一切法體性淨故於諸法體性得如¶
-實智，得如實智故隨所聞事是法界性說無¶
+實智，得如實智故隋所聞事是法界性說無¶
 分別。天子！是名菩薩慧眼清淨如實說受記。¶
 
 「復次天子！菩薩觀身行身念處，知過去身無¶

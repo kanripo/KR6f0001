@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:03.341855
+#+DATE: 2015-08-30 19:59:47.728581
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0001_T_087-0497b> 
 #+PROPERTY: JUAN 87
 ¶
-
- 《大寶積經》卷第八十七¶
+《大寶積經》卷第八十七¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 大神變會第二十二之二¶
@@ -62,7 +61,7 @@
 爾時商主天子白文殊師利言：「何等是菩薩¶
 智？」
 
-文殊師利言：「苦智，不厭諸蘊故。集智，積¶
+文珠師利言：「苦智，不厭諸蘊故。集智，積¶
 集善根故。滅智，示有生故。道智，離惡道故。因¶
 智，所作不壞故。緣智，斷生死故。佛智，令入證¶
 故。緣生智，無所著故。蘊智，除蘊魔故。界智，¶
