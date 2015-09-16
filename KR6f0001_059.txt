@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.220869
+#+DATE: 2015-08-30 19:59:35.549907
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_059-0341a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 59
 ¶
 ¶
-
- 《大寶積經》卷第五十九¶
+《大寶積經》卷第五十九¶
 ¶
 大唐于闐三藏實叉難陀譯¶
 文殊師利授記會第十五之二¶
@@ -291,7 +290,7 @@
 中眾生生者，求法樂法皆無熱惱，如所聞法¶
 隨順修行。¶
 
-「復次舍利弗！菩薩絃歌鼓吹種種音樂供養¶
+「復次舍利弗！菩薩弦歌鼓吹種種音樂供養¶
 佛塔，以此善根迴向佛剎功德莊嚴。是故菩¶
 薩得菩提時，彼佛剎中百千音樂不鼓自鳴。¶
 
@@ -434,7 +433,7 @@
 答言：「不也。」
 
 又言：「善¶
-男子！如來豈不證一切法同虛空耶？」
+男子！如來豈不說一切法同虛空耶？」
 
 答言：「如¶
 是如是。」
