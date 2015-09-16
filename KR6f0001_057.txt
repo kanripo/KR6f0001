@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.158871
+#+DATE: 2015-08-30 20:00:03.893445
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_057-0331a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 57
 ¶
 ¶
-
- 《大寶積經》卷第五十七¶
+《大寶積經》卷第五十七¶
 ¶
 大唐三藏義淨譯¶
 佛說入胎藏會第十四之二¶
@@ -291,7 +290,7 @@
 所觀之法，即於彼法觀想成就正念而住，自¶
 為洲渚、自為歸處，法為洲渚、法為歸處；無別¶
 洲渚，無別歸處。難陀！云何苾芻自為洲渚、自¶
-為歸處、法為洲渚、法為歸處；無別洲渚，無別¶
+為歸處、法為州渚、法為歸處；無別洲渚，無別¶
 歸處？如是難陀！若有苾芻，於自內身隨觀而¶
 住，勤勇繫念得正解了，於諸世間所有恚惱¶
 常思調伏，是謂隨觀內身是苦。若觀外身及¶

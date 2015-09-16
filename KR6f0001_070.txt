@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.619958
+#+DATE: 2015-08-30 20:00:04.343516
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_070-0394a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 70
 ¶
 ¶
-
- 《大寶積經》卷第七十¶
+《大寶積經》卷第七十¶
 ¶
 北齊三藏那連提耶舍譯¶
 
-23淨居天子讚偈品
-:PROPERTIES:
-:head: 菩薩見實會第十六淨居天子讚偈¶
-品第二十三之一
-:END:
-¶
+菩薩見實會第十六淨居天子讚偈¶
+品第二十三之一¶
 
 爾時淨居諸天子知無量眾生得住菩提，於¶
 佛法中無有疑慮已，稱意踊悅，各以妙偈讚¶
@@ -485,7 +480,7 @@
 爾時勇目天子以偈讚曰：¶
 
 #+BEGIN_VERSE
-「　「非𢩁亦非遍，
+「　「非[戶@句]亦非遍，
 　非有亦非無，¶
 　如夢受五慾，
 　佛見法如實。」

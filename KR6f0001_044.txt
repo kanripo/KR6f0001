@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.712639
+#+DATE: 2015-08-30 20:00:03.492301
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_044-0255c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 44
 ¶
 ¶
-
- 《大寶積經》卷第四十四¶
+《大寶積經》卷第四十四¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 菩薩藏會第十二之十尸波羅蜜品¶
@@ -60,7 +59,7 @@
 <pb:KR6f0001_T_044-0256b>¶
 則生怖畏。菩薩摩訶薩作如是念：『我今為求¶
 無怖畏故度諸眾生，不宜於彼而生怖畏，我¶
-當與之共為親愛。』¶
+當興之共為親愛。』¶
 
 「復次舍利子！云何菩薩摩訶薩依尸羅波羅¶
 蜜多故，於一切眾生起父母想？舍利子！菩薩¶

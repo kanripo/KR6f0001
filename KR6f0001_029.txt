@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.163485
+#+DATE: 2015-08-30 20:00:02.936405
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_029-0158c> ¶¶¶
 #+PROPERTY: JUAN 29
 ¶
 ¶
-
- 《大寶積經》卷第二十九¶
+《大寶積經》卷第二十九¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 
-10文殊師利普門會
-:PROPERTIES:
-:head: 文殊師利普門會第十
-:END:
-¶
+文殊師利普門會第十¶
 
 如是我聞：
 
@@ -114,7 +109,7 @@
 
 #+BEGIN_VERSE
 「　「舌根之所受，
-　鹹醋等諸味，¶
+　鹹醋等諸昧，¶
 　皆從眾緣生，
 　其性無所有。¶
 　若能如是知，

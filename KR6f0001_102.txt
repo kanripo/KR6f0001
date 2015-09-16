@@ -1,31 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:03.832196
+#+DATE: 2015-08-30 20:00:05.552446
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0001_T_102-0571b> ¶
 #+PROPERTY: JUAN 102
 ¶
 ¶
-
- 《大寶積經》卷第一百二¶
+《大寶積經》卷第一百二¶
 ¶
 隋三藏達摩笈多譯¶
 
-36第三十六善住意天子會
-:PROPERTIES:
-:head: 第三十六善住意天子會
-:END:
-
-1緣起品
-:PROPERTIES:
-:head: 緣起品第一
-:END:
-¶
+第三十六善住意天子會
+緣起品第一¶
 
 如是我聞：
 
@@ -242,7 +233,7 @@
 覺所。其間或有能雨眾香，所謂塗香末香及¶
 以香鬘，來詣世尊釋迦如來、應供、正遍覺所。¶
 或有菩薩雨諸妙花，所謂優鉢羅花、鉢頭摩¶
-花、拘物頭花、分陀利花、瞻波迦花、波吒利¶
+花、物物頭花、分陀利花、瞻波迦花、波吒利¶
 花、陀奴迦利花、阿他目多迦花、蘇摩那花、¶
 婆利師迦花、曼陀羅花、摩訶曼陀羅花、波盧¶
 沙花、摩訶波盧沙花、旃陀羅花、摩訶旃陀羅¶
