@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:00.954099
+#+DATE: 2015-08-30 19:59:51.243564
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_022-0120b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 《大寶積經》卷第二十二¶
+《大寶積經》卷第二十二¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 被甲莊嚴會第七之二¶
