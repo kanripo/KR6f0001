@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.019997
+#+DATE: 2015-08-30 19:59:24.322341
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_053-0309c> ¶¶¶¶¶
 #+PROPERTY: JUAN 53
 ¶
 ¶
-
- 《大寶積經》卷第五十三¶
+《大寶積經》卷第五十三¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 菩薩藏會第十二之十九般若波羅蜜多¶
@@ -316,7 +315,7 @@
 下，弊鄙麁言性能堪忍。於相應門發心安住，¶
 樂處閑室於靜慮分作意緣念，生起大慈引¶
 發大悲，安住大喜修習大捨，從初靜慮乃至¶
-八定次第證入。若諸菩薩成就此者，如是名¶
+八定次等證入。若諸菩薩成就此者，如是名¶
 為奢摩他道。舍利子！菩薩摩訶薩復有無量¶
 諸奢摩他資糧正行。諸菩薩等於此資糧方¶
 便趣入，如是又名奢摩他道。¶

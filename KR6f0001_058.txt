@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.188944
+#+DATE: 2015-08-30 19:59:24.463145
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_058-0336c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 58
 ¶
 ¶
-
- 《大寶積經》卷第五十八¶
+《大寶積經》卷第五十八¶
 ¶
 大唐于闐三藏實叉難陀譯¶
 
-15文殊師利授記會
-:PROPERTIES:
-:head: 文殊師利授記會第十五之一
-:END:
-¶
+文殊師利授記會第十五之一¶
 
 如是我聞：
 

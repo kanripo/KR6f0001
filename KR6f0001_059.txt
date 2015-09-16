@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.220869
+#+DATE: 2015-08-30 19:59:24.496766
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_059-0341a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 59
 ¶
 ¶
-
- 《大寶積經》卷第五十九¶
+《大寶積經》卷第五十九¶
 ¶
 大唐于闐三藏實叉難陀譯¶
 文殊師利授記會第十五之二¶
@@ -423,7 +422,7 @@
 染無淨、無塵離塵、無我無分別、無和合無執¶
 取，平等無違是為佛法。善男子！此諸佛法，¶
 非法非非法。何以故？以諸佛法無生處故。¶
-故彼新發意菩薩聞此說已若生驚怖，速得¶
+故彼新發意菩薩聞此說已若生驚怖，悉得¶
 菩提。若起分別作如是念：『而今我等所成菩¶
 提，隨有發心住於現證乃得菩提；若不發心¶
 終不能得。』如是分別皆不生故，菩提及心俱¶

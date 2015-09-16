@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.042242
+#+DATE: 2015-08-30 19:59:23.386426
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_025-0137b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《大寶積經》卷第二十五¶
+《大寶積經》卷第二十五¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 被甲莊嚴會第七之五¶
@@ -226,7 +225,7 @@
 而發趣於阿耨多羅三藐三菩提。」
 
 爾時世尊¶
-而說偈言：¶
+而來偈言：¶
 
 #+BEGIN_VERSE
 「　「汝觀一切法，
@@ -404,7 +403,7 @@
 
 「無邊慧！云何法門？謂阿字印印一切法無明¶
 所作，行得圓滿阿字為首，無明止息無所作¶
-故。諸菩薩摩訶薩應入無相印門，以𣘨(阿可反)¶
+故。諸菩薩摩訶薩應入無相印門，以[橠-多+可](阿可反)¶
 字印印一切法，業異熟果、業所應作、業果和¶
 合，了知業果和合緣故，諸菩薩摩訶薩應入¶
 無業無果、無有和合無緣印門。以諸行印印¶

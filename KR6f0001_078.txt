@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:03.018195
+#+DATE: 2015-08-30 19:59:25.155260
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6f0001_T_078-0443b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 78
 ¶
 ¶
-
- 《大寶積經》卷第七十八¶
+《大寶積經》¶
 ¶
 後秦三藏羅什譯¶
 
-4具善根品
-:PROPERTIES:
-:head: 富樓那會第十七之二具善根品第四
-:END:
-¶
+富樓那會第十七之二具善根品第四¶
 
 爾時佛告富樓那：「菩薩摩訶薩發於大乘，常¶
 當修習親近四法，則能具攝一切善法，亦能¶
@@ -124,7 +119,7 @@
 　嫉妬慢諂曲，
 　濁亂嬈眾生。¶
 　懈怠嬾惰心，
-　𢤱戾難與語，¶
+　[怡-台+龍]戾難與語，¶
 　背恩無反復，
 　小事發大恚。¶
 　貪求於利養，
@@ -833,11 +828,7 @@
 」
 <pb:KR6f0001_T_078-0449b>¶
 
-5神力品
-:PROPERTIES:
-:head: 神力品第五
-:END:
-¶
+神力品第五¶
 
 爾時世尊以神通力，從身一一毛孔俱放百¶
 千萬億光明，又從一一毛孔出如須彌山等¶
@@ -996,5 +987,5 @@
 
 佛告阿難：「汝初於法得法眼淨，爾時已為¶
 除滅是罪也。」¶
-《大寶積經》卷第七十八¶
+《大寶積經》¶
 
