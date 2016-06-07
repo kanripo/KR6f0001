@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.555034
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0001_T_039-0223b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 39
 ¶
 ¶
-
- 《大寶積經》卷第三十九¶
+《大寶積經》卷第三十九¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 菩薩藏會第十二之五如來不思議性品¶
@@ -293,9 +292,9 @@
 　十力牟尼尊，
 　處生死化法，¶
 　是第四無畏，
-　清淨等虛空。
+　清淨等虛空。」
 #+END_VERSE
-」¶
+¶
 
 「如是舍利子！是名如來不思議無畏。菩薩摩¶
 訶薩信受諦奉清淨無疑，乃至發希奇想。」
@@ -634,9 +633,9 @@
 　諸眾生不知，
 　如是淨妙法，¶
 　如來見彼已，
-　興猛厲大悲。
+　興猛厲大悲。」
 #+END_VERSE
-」¶
+¶
 
 「如是舍利子！是名如來不思議大悲。諸菩薩¶
 摩訶薩聞是不可思議大悲已，信受諦奉清¶

@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.193008
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0001_T_030-0163a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《大寶積經》卷第三十¶
+《大寶積經》卷第三十¶
 ¶
 大唐三藏菩提流志奉　詔譯¶
 
-11出現光明會
-:PROPERTIES:
-:head: 出現光明會第一十一之一
-:END:
-¶
+* 出現光明會第一十一之一¶
 
 如是我聞：
 
@@ -472,9 +467,9 @@
 　我復有光明，
 　名之為無起，¶
 　以讚不出現，
-　由是故得生。
+　由是故得生。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　「我有光名無表示，
@@ -641,9 +636,9 @@
 　我有光明名勝淨，
 　眷屬八十俱胝數，¶
 　若能受持一三昧，
-　是故成就此光明。
+　是故成就此光明。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　「過去有佛，
@@ -853,9 +848,9 @@
 　於是教中，
 　生淨信者，¶
 　則能廣說，
-　如是經典。
+　如是經典。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　「若於未來說是經，
@@ -1105,8 +1100,8 @@
 　或施金床珍寶帳，
 　或施瓔珞雜花鬘，¶
 　如是一一滿百千，
-　為此經故心無倦。
+　為此經故心無倦。」
 #+END_VERSE
-」¶
+¶
 《大寶積經》卷第三十¶
 

@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:00.318852
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0001_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.310¶
+No. 310¶
 
-并序
-:PROPERTIES:
-:head: 《大寶積經》并序
-:END:
-¶
+* 《大寶積經》并序¶
 ¶
 大唐太上皇製¶
 
@@ -72,11 +68,7 @@ No.310¶
 ¶
 ¶
 
-述
-:PROPERTIES:
-:head: 《大寶積經》述
-:END:
-¶
+* 《大寶積經》述¶
 ¶
 唐朝議郎行河南府告成縣¶
 主簿徐鍔撰¶
@@ -157,13 +149,8 @@ No.310¶
 ¶
 ¶
 ¶
-
- 《大寶積經》
-1三律儀會
-:PROPERTIES:
-:head: 三律儀會第一之一
-:END:
-¶
+《大寶積經》
+* 三律儀會第一之一¶
 ¶
 大唐三藏法師菩提流志奉　詔譯¶
 

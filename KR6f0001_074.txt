@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.843812
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0001_T_074-0419a> 
 #+PROPERTY: JUAN 74
 ¶
-
- 《大寶積經》卷第七十四¶
+《大寶積經》卷第七十四¶
 ¶
 北齊三藏那連提耶舍譯¶
 菩薩見實會第十六之十四六界差別品¶
@@ -436,7 +435,7 @@
 佛言：「大王！如是愚癡無聞凡夫，見舌¶
 根壞心生執著，生執著已生不愛心，生不愛¶
 已作染著業，所謂身三、口四、意三種業。造彼¶
-業已即便謝滅，是業滅已不依東方而住，亦¶
+業已即便謝滅，是業滅己不依東方而住，亦¶
 復不依南西北方四維上下而住。如是之業乃¶
 至臨死之時最後識滅，見先所作心想中現。¶
 大王！是人見已心生怖懼，自分業盡、異業現¶

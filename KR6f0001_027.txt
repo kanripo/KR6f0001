@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.094192
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0001_T_027-0147a> ¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《大寶積經》卷第二十七¶
+《大寶積經》卷第二十七¶
 ¶
 梁三藏曼陀羅譯¶
 法界體性無分別會第八之二¶
@@ -457,7 +456,7 @@
 
 佛告阿難：「是諸菩薩各各集在諸佛¶
 國土，此等菩薩皆是文殊師利童子本所教¶
-化，常為說此法界體性無分別經以開化之。¶
+化，常為說此法界禮性無分別經以開化之。¶
 是諸菩薩知報經恩故來至此，及見如來禮¶
 敬圍遶，亦欲供養禮拜文殊師利童子，又願¶
 護此經是故來此。阿難！我涅槃後，是諸菩薩¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:04.086214
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 310
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0001_T_107-0598c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 107
 ¶
 ¶
-
- 《大寶積經》卷第一百七¶
+《大寶積經》卷第一百七¶
 ¶
 東晉天竺居士竺難提譯¶
 大乘方便會第三十八之二
@@ -80,7 +79,7 @@
 深坑深百千肘者，是聲聞緣覺乘也。於道左¶
 右以板椑之者，智慧方便也。匍匐而進者，¶
 是菩薩以四攝法攝一切眾生也。怨賊在後¶
-而隨怖者，是魔及魔民、深起六十二見眾生¶
+而隨怖者，是摩及魔民、深起六十二見眾生¶
 并輕謗菩薩者也。不顧後者，是忍辱波羅蜜¶
 專心具足也。不視左右者，是不讚聲聞緣覺¶
 乘也。大城者，是一切智心也。漸得過已遂見¶
