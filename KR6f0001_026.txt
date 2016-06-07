@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:12.104863
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -14,7 +14,7 @@
 ¶
 梁三藏曼陀羅仙第二譯¶
 
-法界體性無分別會第八之一¶
+* 法界體性無分別會第八之一¶
 
 如是我聞：
 
