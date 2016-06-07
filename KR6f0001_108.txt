@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:04.113812
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -12,7 +12,8 @@
 ¶
 ¶
 
- 《大寶積經》卷第一百八¶
+ 
+** 3《大寶積經》卷第一百八¶
 ¶
 東晉天竺居士竺難提譯
 <pb:KR6f0001_T_108-0603b>¶

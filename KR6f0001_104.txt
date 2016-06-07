@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:03.971161
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -16,7 +16,7 @@
 ¶
 隋天竺三藏達摩笈多譯¶
 
-6破菩薩相品
+** 6破菩薩相品
 :PROPERTIES:
 :head: 善住意天子會第三十六之三破菩薩相¶
 品第六
@@ -281,7 +281,8 @@
 若此。」
 <pb:KR6f0001_T_104-0584b>¶
 
-7破二乘相品
+** 7破二乘相品
+*** 1
 :PROPERTIES:
 :head: 破二乘相品第七之一
 :END:

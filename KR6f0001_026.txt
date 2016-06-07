@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.068520
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -15,7 +15,8 @@
 ¶
 梁三藏法師曼陀羅譯¶
 
-8法界體性無分別會
+* 8法界體性無分別會
+** 1
 :PROPERTIES:
 :head: 法界體性無分別會第八之一
 :END:

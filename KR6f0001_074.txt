@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:02.843812
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 74
 ¶
 
- 《大寶積經》卷第七十四¶
+ 
+*** 2《大寶積經》卷第七十四¶
 ¶
 北齊三藏那連提耶舍譯¶
 菩薩見實會第十六之十四六界差別品¶

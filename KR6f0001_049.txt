@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:01.901856
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -15,7 +15,8 @@
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
-10靜慮波羅蜜多品
+** 10靜慮波羅蜜多品
+*** 1
 :PROPERTIES:
 :head: 菩薩藏會第十二之十五靜慮波羅蜜多¶
 品第十之一
