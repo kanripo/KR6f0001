@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:59:30.682040
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 大寶積經
 #+PROPERTY: CBETA_ID T11n0310
 #+PROPERTY: ID KR6f0001
@@ -15,7 +15,7 @@
 ¶
 曹魏三藏康僧顗譯¶
 
-郁伽長者會第十九¶
+* 郁伽長者會第十九¶
 
 如是我聞：
 
